@@ -26,6 +26,7 @@ Setup
 -------
 
 安装
+
 If you are an end user you can download an install Idle Master directly from http://www.steamidlemaster.com or by launching setup.exe included in the root of this repository.  You can also download the source repository above and compile the application using Microsoft Visual Studio.
 
 Translation
